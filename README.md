@@ -48,8 +48,9 @@ Le premier groupe est à l'est, le deuxième groupe est au milieu et le troisiè
 |Ouest     |-27.481218536585374|153.00572882926832|
 
 Voici la map qui illustre nos résultats de clustering :
+![carte (1)](https://user-images.githubusercontent.com/92821366/152635932-27812406-6912-46d0-b7a7-62bab7de7826.PNG)
 
-![carte](https://user-images.githubusercontent.com/92821366/152610495-307fc591-b30f-4e72-9c00-ef8a72b293d0.PNG)
+
 
 
 
